@@ -52,5 +52,35 @@ This project demonstrates the implementation of multiple VLANs using a Layer 2 s
 
 ---
 
+## Outcome
+
+- Successful VLAN segmentation  
+- Inter-VLAN communication enabled via router  
+- PCs received IP addresses dynamically using DHCP  
+- Network functioning as expected  
+
+---
+
 ## Screenshots
+
+### Network Topology
+![Network Topology](vlan-topology.png)
+
+### VLAN Creation
+![VLAN Creation](vlan-created.png)
+
+### Access Port Configuration
+![Access Port Configuration](vlan-access-ports.png)
+
+### Trunk Port Configuration
+![Trunk Port Configuration](vlan-trunk-port.png)
+
+### Router Sub-Interface Configuration
+![Router Subinterfaces](router-subinterfaces.png)
+
+### DHCP Configuration
+![DHCP Configuration](dhcp-config.png)
+
+---
+
 
